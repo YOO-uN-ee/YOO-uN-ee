@@ -14,11 +14,11 @@
 
 ## About me
 :seedling: `First year` Computer Science Ph.D. student at [University of Minnesota-Twin Cities](https://twin-cities.umn.edu/) <br>
-:busts_in_silhouette:  Member of the [Knowledge Computing Lab](https://knowledge-computing.github.io/)<br>
-: woman_technologist: Interested in `Natural Language Processing`<br>
+:busts_in_silhouette: Member of the [Knowledge Computing Lab](https://knowledge-computing.github.io/)<br>
+:woman_technologist: Interested in `Natural Language Processing`<br>
 :woman_student: Currently learning about `Geospatial AI` and related `Databases`<br>
 :coffee: <b>HUGE</b> coffee addict<br>
-&nbsp; &nbsp; Visit my [coffee instagram](https://www.instagram.com/yun.is_day/)
+&nbsp; &nbsp; &nbsp; Visit my [coffee instagram](https://www.instagram.com/yun.is_day/)
 <!-- &nbsp; &nbsp; and my [coffee blog]() -->
 <!-- :computer: I am currently developing  -->
 
