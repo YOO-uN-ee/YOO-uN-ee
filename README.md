@@ -13,7 +13,7 @@
 <br>
 
 ## About me
-:seedling: `First year` Computer Science Ph.D. student at [University of Minnesota-Twin Cities](https://twin-cities.umn.edu/) <br>
+:seedling: <b>First year</b> Computer Science Ph.D. student at [University of Minnesota-Twin Cities](https://twin-cities.umn.edu/) <br>
 :busts_in_silhouette: Member of the [Knowledge Computing Lab](https://knowledge-computing.github.io/)<br>
 :woman_technologist: Interested in `Natural Language Processing`<br>
 :woman_student: Currently learning about `Geospatial AI` and related `Databases`<br>
