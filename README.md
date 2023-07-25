@@ -10,12 +10,12 @@
 </p>
 
 ## About me
-- :seedling: I am a `first year` Computer Science Ph.D. student at [University of Minnesota-Twin Cities](https://twin-cities.umn.edu/)
-- :busts_in_silhouette: I am a member of the [Knowledge Computing Lab](https://knowledge-computing.github.io/)
-- :woman_student: I am currently learning about `Geospatial AI` and related `Databases`
-- :coffee: I am a HUGE coffee addict
-    * Visit my [coffee instagram](https://www.instagram.com/yun.is_day/)
-    <!-- * and my [coffee blog]() -->
+:seedling: I am a `first year` Computer Science Ph.D. student at [University of Minnesota-Twin Cities](https://twin-cities.umn.edu/)
+:busts_in_silhouette: I am a member of the [Knowledge Computing Lab](https://knowledge-computing.github.io/)
+:woman_student: I am currently learning about `Geospatial AI` and related `Databases`
+:coffee: I am a HUGE coffee addict
+&nbsp; Visit my [coffee instagram](https://www.instagram.com/yun.is_day/)
+<!-- &nbsp; and my [coffee blog]() -->
 
 <!-- :computer: I am currently developing  -->
 
